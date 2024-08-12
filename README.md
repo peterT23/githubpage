@@ -36,11 +36,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,materialui,html,css,vscode,github,tailwind,git,react,vite,netlify" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,materialui,html,css,vscode,github,tailwind,git,react,vite,netlify" />
     <img src="https://skillicons.dev/icons?i=nodejs,js,ts,redux,express,firebase,mongodb,c,nextjs" /><br>
 </div>
 
-<br/>
-<hr/>
+
 
 
